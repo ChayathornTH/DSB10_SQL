@@ -1,0 +1,5 @@
+customer_id,customer_name,phone,member,allergic
+1,John Doe,555-123-4567,1,Nuts
+2,Jane Smith,555-789-0123,0,None
+3,Michael Chen,555-456-7890,0,Seafood
+4,Alice Lee,555-012-3456,1,Dairy
